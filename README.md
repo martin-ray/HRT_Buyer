@@ -33,6 +33,9 @@ node buyer.js
 ```
 // JSON format
 var ticktest = {
+    race_num:race_num,
+    column:column,
+    num_of_horses:num_of_horses,
     santan:[
         {
          umaban1:2,
